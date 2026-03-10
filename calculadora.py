@@ -1,4 +1,4 @@
-print("=== CALCULADORA ===")
+print("=== CALCULADORA DO BOTINI ===")
 
 num1 = float(input("Digite o primeiro número: "))
 operacao = input("Digite a operação (+, -, *, /): ")
